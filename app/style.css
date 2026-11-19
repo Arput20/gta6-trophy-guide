@@ -229,17 +229,25 @@ body {
   border-radius: 4px;
 }
 
-.trophy-toggle-guide {
-  background: transparent;
-  border: none;
-  color: var(--accent);
+.expand-toggle-btn, .trophy-toggle-guide {
+  background: var(--accent);
+  color: #0d1117;
+  border: 1px solid var(--accent);
+  padding: 6px 12px;
   font-size: 13px;
-  font-weight: 650;
+  font-weight: 600;
+  border-radius: 6px;
   cursor: pointer;
-  padding: 0;
-  margin-top: 4px;
+  transition: all 0.2s;
+  display: inline-flex;
+  align-items: center;
+  margin-top: 8px;
 }
-.trophy-toggle-guide:hover { text-decoration: underline; }
+.expand-toggle-btn:hover, .trophy-toggle-guide:hover {
+  background: #79c0ff;
+  border-color: #79c0ff;
+  color: #0d1117;
+}
 
 .trophy-guide-body {
   margin-top: 12px;

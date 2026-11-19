@@ -24,10 +24,10 @@ os.makedirs("screenshots", exist_ok=True)
 chrome_bin = "/root/.cache/ms-playwright/chromium-1208/chrome-linux64/chrome"
 
 shots = [
-    ("01-roadmap.png", "http://127.0.0.1:8099/?tab=roadmap"),
-    ("02-list.png", "http://127.0.0.1:8099/"),
-    ("03-guide.png", "http://127.0.0.1:8099/?expand=2"),
-    ("04-tracker.png", "http://127.0.0.1:8099/?demo=1")
+    ("01-roadmap.png", "http://127.0.0.1:8099/?shot=1&t=1"),
+    ("02-list.png", "http://127.0.0.1:8099/?shot=2&t=2"),
+    ("03-guide.png", "http://127.0.0.1:8099/?shot=3&expand=1&t=3"),
+    ("04-tracker.png", "http://127.0.0.1:8099/?demo=1&t=4")
 ]
 
 for filename, url in shots:
@@ -38,6 +38,11 @@ for filename, url in shots:
         "--no-sandbox",
         "--hide-scrollbars",
         "--window-size=1280,720",
+        "--disk-cache-dir=/dev/null",
+        "--disable-application-cache",
+        "--allow-file-access-from-files",
+        "--disable-web-security",
+        "--disable-site-isolation-trials",
         "--virtual-time-budget=4000",
         f"--screenshot={out_path}",
         url
