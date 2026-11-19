@@ -3,23 +3,76 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>GTA VI Trophy Guide & Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="header">
+  <div class="brand">
+    <h1>GTA VI Trophy Guide & Tracker</h1>
+    <p class="subtitle">Leonida Platinum Companion (55 Trophies)</p>
+  </div>
+  <div class="header-stats">
+    <div id="progress-text">0 of 55 earned (0%)</div>
+    <div class="progress-bar-container"><div id="progress-bar" style="width: 0%"></div></div>
+  </div>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<nav class="nav-tabs">
+  <button class="tab-btn active" data-tab="trophies">Trophy List</button>
+  <button class="tab-btn" data-tab="roadmap">Platinum Roadmap</button>
+  <div class="actions-right">
+    <label class="spoiler-toggle"><input type="checkbox" id="spoiler-mode"> Spoiler Mode (Hide Story Names)</label>
+    <button id="export-btn" class="btn">Export Progress</button>
+    <label class="btn import-label">Import Progress <input id="import-file" type="file" accept="application/json"></label>
+  </div>
+</nav>
+
+<main>
+  <section id="tab-trophies" class="tab-content active">
+    <div class="filter-bar">
+      <input type="text" id="search-input" placeholder="Search trophies...">
+      <select id="filter-kind">
+        <option value="all">All Kinds</option>
+        <option value="story">Story</option>
+        <option value="collectible">Collectible</option>
+        <option value="activity">Activity</option>
+        <option value="online">Online</option>
+        <option value="misc">Misc</option>
+      </select>
+      <select id="filter-grade">
+        <option value="all">All Grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+      <select id="filter-status">
+        <option value="all">All Status</option>
+        <option value="earned">Earned</option>
+        <option value="unearned">Unearned</option>
+        <option value="missable">Missable</option>
+      </select>
+      <button id="reset-filters" class="btn secondary">Reset</button>
+    </div>
+
+    <div class="trophy-grid" id="trophy-list"></div>
+  </section>
+
+  <section id="tab-roadmap" class="tab-content">
+    <div class="roadmap-container" id="roadmap-container">
+      <h2>Platinum Walkthrough Roadmap</h2>
+      <p class="roadmap-intro">Follow this 5-stage progression plan to efficiently secure your GTA VI Platinum trophy without missing missable narrative events.</p>
+      <div id="roadmap-stages" class="roadmap-stages"></div>
+      <div class="roadmap-sources" id="roadmap-sources"></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>GTA VI Offline Trophy Guide & Tracker. Official trophy names and descriptions owned by Rockstar Games. Guides authored by community experts.</p>
+</footer>
+
 <script type="module" src="app.js"></script>
 </body>
 </html>

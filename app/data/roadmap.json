@@ -1,0 +1,42 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "title": "Platinum Roadmap",
+  "stages": [
+    {
+      "stage": 1,
+      "name": "Story Campaign & Missables",
+      "description": "Complete all main story chapters and missions from Gone Fishing to the final mission. Pay strict attention to missable story-progress trophies (e.g. Trust, Break the Bank, Family Matters, DWNFALL, Hi-Jacked, Snow Storm) which cannot be replayed without starting a new game or save slot.",
+      "estimated_hours": "30-40 hours"
+    },
+    {
+      "stage": 2,
+      "name": "Strangers & Freaks Strands",
+      "description": "Complete all 8 stranger mission strands and character side stories across Leonida, including Andy, Kenton, Billy, Randy, Tyrone, and others.",
+      "estimated_hours": "10-15 hours"
+    },
+    {
+      "stage": 3,
+      "name": "Collectibles, Stunts & Exploration",
+      "description": "Achieve 100% completion across Leonida. Pull off 250 stunt jumps, meditate at all 18 meditation spots, and complete exploration collectibles.",
+      "estimated_hours": "15-20 hours"
+    },
+    {
+      "stage": 4,
+      "name": "Activities, Challenges & Mini-games",
+      "description": "Win a Top Fun drone race at all 14 locations, earn gold medals in all 42 Shooting Range challenges, win 20 different races, complete arcade games, beat Cal in fishing, and try each activity type.",
+      "estimated_hours": "10-15 hours"
+    },
+    {
+      "stage": 5,
+      "name": "Online & Platinum Clean-Up",
+      "description": "Complete any online trophies, remaining cleanup tasks, and unlock the final Platinum trophy 'Vice Got a Price!' once all 54 other trophies are secured.",
+      "estimated_hours": "5-10 hours"
+    }
+  ],
+  "sources": [
+    "Roadmap based on official trophy descriptions and community platinum progression standards",
+    "PlayStation Trophies & PSNProfiles Community Guides: https://psnprofiles.com",
+    "PowerPyx GTA VI Trophy Roadmap: https://www.powerpyx.com"
+  ]
+}
