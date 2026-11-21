@@ -5,33 +5,92 @@
   "stages": [
     {
       "stage": 1,
-      "name": "Story Campaign & Missables",
-      "description": "Complete all main story chapters and missions from Gone Fishing to the final mission. Pay strict attention to missable story-progress trophies (e.g. Trust, Break the Bank, Family Matters, DWNFALL, Hi-Jacked, Snow Storm) which cannot be replayed without starting a new game or save slot.",
-      "estimated_hours": "30-40 hours"
+      "name": "Story Campaign & Core Chapters",
+      "description": "Complete all main story chapters (Chapters 1 to 4) and narrative milestones from Gone Fishing to the penultimate chapter. Focus strictly on narrative progression across Vice City and Leonida.",
+      "estimated_hours": "25-30 hours",
+      "depends_on": [],
+      "checklist": [
+        "Complete introductory mission 'Gone Fishing' in Vice City.",
+        "Finish Chapter 1 narrative operations and safehouse setup.",
+        "Complete Chapter 2 drug trafficking and syndicate missions.",
+        "Execute Chapter 3 high-stakes cartel and marina operations.",
+        "Finish Chapter 4 high-altitude infiltration and crew setup.",
+        "Ensure all story checkpoints and auto-saves are successfully logged."
+      ]
     },
     {
       "stage": 2,
-      "name": "Strangers & Freaks Strands",
-      "description": "Complete all 8 stranger mission strands and character side stories across Leonida, including Andy, Kenton, Billy, Randy, Tyrone, and others.",
-      "estimated_hours": "10-15 hours"
+      "name": "Missable Story Trophies & Stranger Strands",
+      "description": "Complete all missable story-progress trophies (Trust, Break the Bank, Family Matters, DWNFALL, Hi-Jacked, Snow Storm) and all 8 stranger mission strands (Andy, Kenton, Billy, Randy, Tyrone, etc.) before campaign cutoffs.",
+      "estimated_hours": "15-20 hours",
+      "depends_on": [
+        1
+      ],
+      "checklist": [
+        "Complete 'Breakfast Run' (Trust) before Chapter 1 cutoff.",
+        "Complete 'The Cartel Heist' and 'Child's Play' before Chapter 2 cutoff.",
+        "Complete 'Headliners' and 'VCIA Takedown' before Chapter 3 cutoff.",
+        "Complete 'Operation Savage Glory' before Chapter 4 cutoff.",
+        "Complete all multi-part stranger strands for Andy, Kenton, Billy, Randy, and Tyrone.",
+        "Verify all missable flags are secured before transitioning to endgame free-roam."
+      ]
     },
     {
       "stage": 3,
-      "name": "Collectibles, Stunts & Exploration",
-      "description": "Achieve 100% completion across Leonida. Pull off 250 stunt jumps, meditate at all 18 meditation spots, and complete exploration collectibles.",
-      "estimated_hours": "15-20 hours"
+      "name": "Collectibles, Exploration & 100% Completion",
+      "description": "Achieve 100% completion across Leonida. Execute 250 stunt jumps, collect trading card sets, log 100 vehicles, explore all 52 map sectors, purchase all 8 garage properties, and witness paranormal events.",
+      "estimated_hours": "20-25 hours",
+      "depends_on": [
+        1,
+        2
+      ],
+      "checklist": [
+        "Land all 250 stunt jumps across highways and rooftops.",
+        "Collect and complete 3 Trading Card sets across convenience stores.",
+        "Log 100 unique vehicles in your dossier.",
+        "Uncover all 52 map sectors across Vice City and the Everglades.",
+        "Purchase all 8 garage and safehouse properties.",
+        "Witness the paranormal Easter egg event in the Everglades."
+      ]
     },
     {
       "stage": 4,
       "name": "Activities, Challenges & Mini-games",
-      "description": "Win a Top Fun drone race at all 14 locations, earn gold medals in all 42 Shooting Range challenges, win 20 different races, complete arcade games, beat Cal in fishing, and try each activity type.",
-      "estimated_hours": "10-15 hours"
+      "description": "Earn gold medals in all 42 Shooting Range challenges, win a Top Fun drone race at all 14 locations, win 20 different street races, defeat Cal at fishing, play bowling, and complete arcade games.",
+      "estimated_hours": "15-20 hours",
+      "depends_on": [
+        1,
+        2,
+        3
+      ],
+      "checklist": [
+        "Earn gold medals across all 42 Ammu-Nation shooting range challenges.",
+        "Place first in Top Fun drone races at all 14 locations.",
+        "Win 20 unique street and off-road races across Leonida.",
+        "Defeat Cal in the Everglades fishing challenge.",
+        "Complete a bowling game and an arcade cabinet game.",
+        "Try each of the 9 distinct activity types at least once."
+      ]
     },
     {
       "stage": 5,
       "name": "Online & Platinum Clean-Up",
-      "description": "Complete any online trophies, remaining cleanup tasks, and unlock the final Platinum trophy 'Vice Got a Price!' once all 54 other trophies are secured.",
-      "estimated_hours": "5-10 hours"
+      "description": "Complete remaining miscellaneous tasks including partner wanted level escapes, retail robberies, bank vault break-ins, gang stash raids, laundering marked cash, and unlock the final Platinum trophy.",
+      "estimated_hours": "10-15 hours",
+      "depends_on": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "checklist": [
+        "Lose a 4-star wanted level with your partner.",
+        "Rob 3 shops back-to-back with your partner without losing heat.",
+        "Rob 5 bank vaults and successfully escape the district.",
+        "Raid illegal operations run by each of the 9 rival gangs.",
+        "Launder $250,000 in marked bills through your contacts.",
+        "Unlock all 54 other trophies to claim the Platinum 'Vice Got a Price!'."
+      ]
     }
   ],
   "sources": [

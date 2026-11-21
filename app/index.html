@@ -1,38 +1,53 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="dark">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI Trophy Guide & Tracker</title>
+<title>GTA VI PS5 Offline Trophy Guide & Tracker</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="header">
+<header class="header" role="banner">
   <div class="brand">
-    <h1>GTA VI Trophy Guide & Tracker</h1>
-    <p class="subtitle">Leonida Platinum Companion (55 Trophies)</p>
+    <h1>GTA VI PS5 Trophy Guide & Tracker</h1>
+    <p class="subtitle" id="header-subtitle">Leonida Platinum Companion (55 Trophies)</p>
   </div>
-  <div class="header-stats">
-    <div id="progress-text">0 of 55 earned (0%)</div>
-    <div class="progress-bar-container"><div id="progress-bar" style="width: 0%"></div></div>
+  <div class="header-stats" aria-label="Progress statistics">
+    <div id="progress-text" aria-live="polite">0 of 55 earned (0%)</div>
+    <div id="done-today-text" class="done-today-badge" title="Trophies marked completed today">Done Today: 0</div>
+    <div class="progress-bar-container" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+      <div id="progress-bar" style="width: 0%"></div>
+    </div>
+  </div>
+  <div class="header-controls">
+    <button id="theme-toggle" class="btn icon-btn" aria-label="Toggle dark/light theme" title="Toggle Theme (Alt+T)">🌙</button>
+    <button id="shortcuts-help-btn" class="btn icon-btn" aria-label="Keyboard shortcuts help" title="Keyboard Shortcuts (?)">⌨️ ?</button>
   </div>
 </header>
 
-<nav class="nav-tabs">
-  <button class="tab-btn active" data-tab="trophies">Trophy List</button>
-  <button class="tab-btn" data-tab="roadmap">Platinum Roadmap</button>
+<nav class="nav-tabs" role="navigation" aria-label="Main Navigation">
+  <button class="tab-btn active" data-view="trophies" aria-pressed="true" aria-label="Switch to Trophy List view (1)">1. Trophy List</button>
+  <button class="tab-btn" data-view="roadmap" aria-pressed="false" aria-label="Switch to Platinum Roadmap view (2)">2. Roadmap</button>
+  <button class="tab-btn" data-view="tracker" aria-pressed="false" aria-label="Switch to Tracker Dashboard view (3)">3. Tracker & Notes</button>
+  <button class="tab-btn" data-view="sources" aria-pressed="false" aria-label="Switch to Sources & Method view (4)">4. Sources & Method</button>
+  
   <div class="actions-right">
-    <label class="spoiler-toggle"><input type="checkbox" id="spoiler-mode"> Spoiler Mode (Hide Story Names)</label>
-    <button id="export-btn" class="btn">Export Progress</button>
-    <label class="btn import-label">Import Progress <input id="import-file" type="file" accept="application/json"></label>
+    <label class="spoiler-toggle" aria-label="Toggle spoiler mode to hide story trophy names and descriptions">
+      <input type="checkbox" id="spoiler-checkbox"> Spoiler Mode (M)
+    </label>
+    <button id="btn-export" class="btn" aria-label="Export progress JSON backup">Export JSON</button>
+    <button id="btn-import-modal" class="btn" aria-label="Import progress JSON via paste or file">Import JSON</button>
   </div>
 </nav>
 
-<main>
-  <section id="tab-trophies" class="tab-content active">
-    <div class="filter-bar">
-      <input type="text" id="search-input" placeholder="Search trophies...">
-      <select id="filter-kind">
+<main id="main-content" role="main">
+  <!-- VIEW 1: TROPHY LIST -->
+  <section id="view-trophies" class="view-section active" aria-labelledby="trophy-list-heading">
+    <h2 id="trophy-list-heading" class="sr-only">Trophy Guide & Filter List</h2>
+    <div class="filter-bar" role="search" aria-label="Trophy filters and sorting">
+      <input type="text" id="search-input" placeholder="Search trophies by name, guide, steps... (/)" aria-label="Search trophies">
+      
+      <select id="filter-kind" aria-label="Filter by trophy kind">
         <option value="all">All Kinds</option>
         <option value="story">Story</option>
         <option value="collectible">Collectible</option>
@@ -40,38 +55,148 @@
         <option value="online">Online</option>
         <option value="misc">Misc</option>
       </select>
-      <select id="filter-grade">
+
+      <select id="filter-grade" aria-label="Filter by trophy grade">
         <option value="all">All Grades</option>
         <option value="platinum">Platinum</option>
         <option value="gold">Gold</option>
         <option value="silver">Silver</option>
         <option value="bronze">Bronze</option>
       </select>
-      <select id="filter-status">
+
+      <select id="filter-status" aria-label="Filter by trophy status and missable cutoff">
         <option value="all">All Status</option>
         <option value="earned">Earned</option>
         <option value="unearned">Unearned</option>
-        <option value="missable">Missable</option>
+        <option value="can-still-get">Can Still Get (Safe)</option>
+        <option value="missed">Missable / Missed Risk</option>
       </select>
-      <button id="reset-filters" class="btn secondary">Reset</button>
+
+      <select id="sort-select" aria-label="Sort trophies by">
+        <option value="default">Sort: Default ID</option>
+        <option value="difficulty-asc">Difficulty: Low to High</option>
+        <option value="difficulty-desc">Difficulty: High to Low</option>
+        <option value="time-asc">Time: Short to Long</option>
+        <option value="time-desc">Time: Long to Short</option>
+        <option value="name-asc">Name: A to Z</option>
+      </select>
+
+      <button id="reset-filters" class="btn secondary" aria-label="Reset all search filters and sorting">Reset Filters</button>
     </div>
 
-    <div class="trophy-grid" id="trophy-list"></div>
+    <div class="trophy-grid" id="trophy-list" role="feed" aria-label="Trophy guide list"></div>
   </section>
 
-  <section id="tab-roadmap" class="tab-content">
-    <div class="roadmap-container" id="roadmap-container">
-      <h2>Platinum Walkthrough Roadmap</h2>
-      <p class="roadmap-intro">Follow this 5-stage progression plan to efficiently secure your GTA VI Platinum trophy without missing missable narrative events.</p>
+  <!-- VIEW 2: ROADMAP -->
+  <section id="view-roadmap" class="view-section" aria-labelledby="roadmap-heading">
+    <div class="roadmap-container">
+      <h2 id="roadmap-heading">Platinum Walkthrough Roadmap</h2>
+      <p class="roadmap-intro">Follow this 5-stage dependency-ordered progression plan to efficiently secure your GTA VI Platinum trophy without missing missable narrative events.</p>
       <div id="roadmap-stages" class="roadmap-stages"></div>
       <div class="roadmap-sources" id="roadmap-sources"></div>
     </div>
   </section>
+
+  <!-- VIEW 3: TRACKER DASHBOARD -->
+  <section id="view-tracker" class="view-section" aria-labelledby="tracker-heading">
+    <div class="tracker-dashboard-container">
+      <h2 id="tracker-heading">Progress Tracker & Personal Notes</h2>
+      <p class="tracker-intro">Review your completion statistics, examine trophies marked done today, and manage your per-trophy personal notes and backups.</p>
+      
+      <div class="tracker-stats-grid">
+        <div class="stat-card">
+          <h3>Overall Completion</h3>
+          <p id="tracker-total-pct">0%</p>
+          <span id="tracker-total-count">0 of 55 trophies</span>
+        </div>
+        <div class="stat-card">
+          <h3>Done Today</h3>
+          <p id="tracker-today-count">0</p>
+          <span>Trophies secured today</span>
+        </div>
+        <div class="stat-card">
+          <h3>Missable Secured</h3>
+          <p id="tracker-missable-count">0 / 6</p>
+          <span>Missable story trophies</span>
+        </div>
+        <div class="stat-card">
+          <h3>Estimated Time Left</h3>
+          <p id="tracker-time-left">~75 hrs</p>
+          <span>Based on remaining items</span>
+        </div>
+      </div>
+
+      <div class="tracker-section">
+        <h3>Personal Notes Overview</h3>
+        <p class="section-hint">Trophies with saved personal notes will be listed below. You can also edit notes directly on each trophy card.</p>
+        <div id="notes-overview-list" class="notes-overview-list"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VIEW 4: SOURCES & METHOD -->
+  <section id="view-sources" class="view-section" aria-labelledby="sources-heading">
+    <div class="sources-container">
+      <h2 id="sources-heading">Sources & Method</h2>
+      <p class="sources-lead">Every guide entry in this offline GTA VI PS5 Trophy Guide & Tracker is meticulously authored in our own words, combining official Rockstar Games trophy descriptions with rigorous public community references.</p>
+      
+      <div class="sources-cards">
+        <div class="source-card">
+          <h3>Editorial Method</h3>
+          <p>Guides are structured with clear district location tags, difficulty ratings (1-5 stars), time estimates, exact missable cutoff missions, and step-by-step routing instructions designed for offline PlayStation 5 playthroughs.</p>
+        </div>
+        <div class="source-card">
+          <h3>Community References & Links</h3>
+          <p>We acknowledge and cite leading public community trophy resources that help establish platinum roadmaps and collectible locations:</p>
+          <ul class="community-links-list">
+            <li><a href="https://www.powerpyx.com" target="_blank" rel="noopener noreferrer">PowerPyx GTA VI Trophy Guide & Roadmap</a></li>
+            <li><a href="https://psnprofiles.com" target="_blank" rel="noopener noreferrer">PSNProfiles GTA VI Community Guides</a></li>
+            <li><a href="https://www.rockstargames.com" target="_blank" rel="noopener noreferrer">Rockstar Games Official GTA VI Portal</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
 </main>
 
-<footer>
-  <p>GTA VI Offline Trophy Guide & Tracker. Official trophy names and descriptions owned by Rockstar Games. Guides authored by community experts.</p>
+<footer role="contentinfo">
+  <p>GTA VI Offline Trophy Guide & Tracker. Official trophy names and descriptions owned by Rockstar Games. Guides authored in own words citing PowerPyx & PSNProfiles community references.</p>
 </footer>
+
+<!-- SHORTCUTS HELP MODAL -->
+<div id="shortcuts-modal" class="modal" aria-hidden="true" role="dialog" aria-labelledby="shortcuts-title">
+  <div class="modal-content">
+    <h3 id="shortcuts-title">Keyboard Shortcuts Help</h3>
+    <ul class="shortcuts-list">
+      <li><kbd>1</kbd> Switch to Trophy List View</li>
+      <li><kbd>2</kbd> Switch to Roadmap View</li>
+      <li><kbd>3</kbd> Switch to Tracker Dashboard</li>
+      <li><kbd>4</kbd> Switch to Sources & Method View</li>
+      <li><kbd>j</kbd> / <kbd>k</kbd> Next / Previous Trophy Card</li>
+      <li><kbd>x</kbd> Toggle Done / Earned on Active Card</li>
+      <li><kbd>n</kbd> Focus Personal Note Input on Active Card</li>
+      <li><kbd>/</kbd> Focus Search Bar</li>
+      <li><kbd>m</kbd> Toggle Spoiler Mode</li>
+      <li><kbd>?</kbd> Open / Close this Help Modal</li>
+      <li><kbd>Esc</kbd> Close Modals</li>
+    </ul>
+    <button id="close-shortcuts-modal" class="btn" autofocus>Close</button>
+  </div>
+</div>
+
+<!-- IMPORT JSON MODAL -->
+<div id="import-modal" class="modal" aria-hidden="true" role="dialog" aria-labelledby="import-title">
+  <div class="modal-content">
+    <h3 id="import-title">Import Progress JSON</h3>
+    <p>Upload a JSON progress backup file or paste your exported progress JSON array below:</p>
+    <input type="file" id="file-import" accept="application/json" class="btn" aria-label="Upload JSON file">
+    <textarea id="paste-import-textarea" placeholder="Paste JSON array here (e.g. [&quot;Vice Got a Price!&quot;, &quot;Just Like Paradise&quot;])" aria-label="Paste JSON progress"></textarea>
+    <div class="modal-actions">
+      <button id="btn-confirm-import" class="btn primary">Import Paste</button>
+      <button id="close-import-modal" class="btn secondary">Cancel</button>
+    </div>
+  </div>
+</div>
 
 <script type="module" src="app.js"></script>
 </body>

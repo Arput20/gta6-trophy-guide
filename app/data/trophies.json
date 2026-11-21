@@ -8,20 +8,25 @@
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Unlock all other 54 trophies in Grand Theft Auto VI to earn the prestigious Platinum trophy. This requires completing the story, mastering all stranger strands, finding all collectibles, and winning all challenges. Not missable as trophies can be cleaned up post-game.",
+   "guide": "Unlock all other 54 trophies in Grand Theft Auto VI to earn the prestigious Platinum trophy. This requires completing the story, mastering all stranger strands, finding all collectibles, and winning all challenges. Not missable as trophies can be cleaned up post-game. Refer to the numbered route steps and district location hints to complete 'Vice Got a Price!' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Complete the main campaign and story missions.",
-    "Finish all Stranger and Freak strands.",
-    "Collect all collectibles, stunt jumps, and meditation spots.",
-    "Win all activities, races, and challenges.",
-    "Clean up remaining miscellaneous trophies."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 5,
+   "time_estimate": "~75 hrs",
+   "steps": [
+    "1. Vice City (Downtown & Ocean Beach): Review overall checklist and verify all 54 previous trophies are unlocked.",
+    "2. Before starting endgame activities, ensure you have completed all main story chapters in Leonida.",
+    "3. Travel to Starfish Island safehouse to check completion progress via the in-game terminal.",
+    "4. Complete any remaining missing side strands or uncollected items across Port Gellhorn and Grassrivers.",
+    "5. Re-check all missable story and stranger trophies to guarantee zero omissions.",
+    "6. Trigger the final cleanup task across Viceport to secure all remaining miscellaneous requirements.",
+    "7. Unlock the prestigious Platinum trophy 'Vice Got a Price!' upon receiving confirmation of 100% completion."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com",
-     "PSNProfiles GTA VI Roadmap: https://psnprofiles.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com",
+    "PSNProfiles GTA VI Roadmap: https://psnprofiles.com"
    ]
   },
   {
@@ -29,17 +34,24 @@
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening story mission Gone Fishing to unlock this narrative trophy. This mission introduces the protagonists and the gorgeous setting of Vice City. It is a mandatory story progression milestone and cannot be missed.",
+   "guide": "Finish the opening story mission Gone Fishing to unlock this narrative trophy. This mission introduces the protagonists and the gorgeous setting of Vice City. It is a mandatory story progression milestone and cannot be missed. Refer to the numbered route steps and district location hints to complete 'Just Like Paradise' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Launch a new game and watch the opening cinematic.",
-    "Follow the on-screen objectives during Gone Fishing.",
-    "Escape the initial encounter and secure the safehouse."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'Just Like Paradise'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -47,17 +59,24 @@
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish all core narrative missions comprising Chapter 1 of the campaign. This trophy unlocks automatically as you progress through the main storyline. Ensure you complete all required operations before moving forward.",
+   "guide": "Finish all core narrative missions comprising Chapter 1 of the campaign. This trophy unlocks automatically as you progress through the main storyline. Ensure you complete all required operations before moving forward. Refer to the numbered route steps and district location hints to complete 'Paradise Lost' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Progress through the introductory missions of Chapter 1.",
-    "Complete the chapter-culminating heist setup.",
-    "Watch the cutscene transitioning to Chapter 2."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'Paradise Lost'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -65,17 +84,24 @@
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Complete all main story missions in Chapter 2 of the campaign. This chapter expands the criminal network across Vice City and Leonida. It is a story-tied milestone that unlocks upon completion.",
+   "guide": "Complete all main story missions in Chapter 2 of the campaign. This chapter expands the criminal network across Vice City and Leonida. It is a story-tied milestone that unlocks upon completion. Refer to the numbered route steps and district location hints to complete 'T**s Ass Drug Money' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Perform the drug trafficking operations in Chapter 2.",
-    "Evade local law enforcement during the supply runs.",
-    "Finish the final mission of Chapter 2."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'T**s Ass Drug Money'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -83,17 +109,24 @@
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Conclude all story missions in Chapter 3. This chapter features high-stakes operations and cartel tensions in Vice City. It is required for story progression and unlocks automatically.",
+   "guide": "Conclude all story missions in Chapter 3. This chapter features high-stakes operations and cartel tensions in Vice City. It is required for story progression and unlocks automatically. Refer to the numbered route steps and district location hints to complete 'Vice City, Baby!' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Execute the chapter's major syndicate operations.",
-    "Survive the ambush at the marina.",
-    "Complete the final sequence of Chapter 3."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'Vice City, Baby!'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -101,17 +134,24 @@
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish all missions in Chapter 4 of the main campaign. This penultimate chapter sets the stage for the grand finale. Unlocks automatically upon successful completion of the chapter's climax.",
+   "guide": "Finish all missions in Chapter 4 of the main campaign. This penultimate chapter sets the stage for the grand finale. Unlocks automatically upon successful completion of the chapter's climax. Refer to the numbered route steps and district location hints to complete 'Top Of The World, Ma' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Coordinate the crew for the Chapter 4 operations.",
-    "Execute the high-altitude infiltration mission.",
-    "Complete the chapter outro cutscene."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'Top Of The World, Ma'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -119,17 +159,24 @@
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Complete the epic final mission of the campaign. This golden milestone wraps up the narrative arc of the protagonists in Leonida. Ensure you are prepared with optimal gear and full health before starting.",
+   "guide": "Complete the epic final mission of the campaign. This golden milestone wraps up the narrative arc of the protagonists in Leonida. Ensure you are prepared with optimal gear and full health before starting. Refer to the numbered route steps and district location hints to complete 'You Gotta Know When to Get Off' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Initiate the final mission marker on the map.",
-    "Navigate through the multi-stage combat encounters.",
-    "Make the critical narrative choice in the finale."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 4,
+   "time_estimate": "~5 hrs",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'You Gotta Know When to Get Off'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -137,17 +184,24 @@
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Successfully complete the mission Breakfast Run early in the game. This mission tests your driving and getaway skills under pressure. Pay attention to dialogue cues so you do not fail optional parameters.",
+   "guide": "Successfully complete the mission Breakfast Run early in the game. This mission tests your driving and getaway skills under pressure. Pay attention to dialogue cues so you do not fail optional parameters. Refer to the numbered route steps and district location hints to complete 'Trust' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Accept the Breakfast Run task from your contact.",
-    "Secure the package from the diner without alerting authorities.",
-    "Return to the safehouse within the time limit."
-   ],
    "stage": 1,
+   "missable": true,
+   "missable_cutoff": "after mission 'Breakfast Run' (end of Chapter 1)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 1.",
+    "2. Before starting mission 'Trust', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Trust'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -155,17 +209,24 @@
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Execute and complete The Cartel Heist mission. This is a high-risk robbery requiring precise coordination and crowd control. Missable if ignored during story progression arcs.",
+   "guide": "Execute and complete The Cartel Heist mission. This is a high-risk robbery requiring precise coordination and crowd control. Missable if ignored during story progression arcs. Refer to the numbered route steps and district location hints to complete 'Break the Bank' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Select your crew and approach the cartel facility.",
-    "Bypass the security grid and breach the vault.",
-    "Escape the pursuing cartel enforcers with the loot."
-   ],
    "stage": 1,
+   "missable": true,
+   "missable_cutoff": "after mission 'Child's Play' (end of Chapter 2)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 1.",
+    "2. Before starting mission 'Break the Bank', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Break the Bank'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -173,17 +234,24 @@
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Complete the story mission Child's Play. This mission explores familial ties and underground debts in Vice City. Make sure to complete it when prompted in your mission log.",
+   "guide": "Complete the story mission Child's Play. This mission explores familial ties and underground debts in Vice City. Make sure to complete it when prompted in your mission log. Refer to the numbered route steps and district location hints to complete 'Family Matters' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Meet the contact at the designated warehouse.",
-    "Track down the target vehicle across the highway.",
-    "Recover the asset and return safely."
-   ],
    "stage": 1,
+   "missable": true,
+   "missable_cutoff": "after mission 'Child's Play' (end of Chapter 2)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 1.",
+    "2. Before starting mission 'Family Matters', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Family Matters'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -191,17 +259,24 @@
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners in the campaign. Involves infiltrating a high-profile media event to disrupt a rival operation. Missable if you skip optional side branching before moving acts.",
+   "guide": "Finish the mission Headliners in the campaign. Involves infiltrating a high-profile media event to disrupt a rival operation. Missable if you skip optional side branching before moving acts. Refer to the numbered route steps and district location hints to complete 'DWNFALL' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Obtain disguise credentials for the venue.",
-    "Infiltrate the auditorium during the concert event.",
-    "Extract the target without triggering total lockdown."
-   ],
    "stage": 1,
+   "missable": true,
+   "missable_cutoff": "after mission 'VCIA Takedown' (end of Chapter 3)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 1.",
+    "2. Before starting mission 'DWNFALL', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'DWNFALL'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -209,17 +284,24 @@
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Successfully complete the VCIA Takedown mission. This aerial and ground assault requires precision shooting and vehicle interception. Follow all stage checkpoints to succeed.",
+   "guide": "Successfully complete the VCIA Takedown mission. This aerial and ground assault requires precision shooting and vehicle interception. Follow all stage checkpoints to succeed. Refer to the numbered route steps and district location hints to complete 'Hi-Jacked' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Pursue the target transport vehicle along the causeway.",
-    "Board the moving vehicle using the grapple rig.",
-    "Take control and navigate to the drop zone."
-   ],
    "stage": 1,
+   "missable": true,
+   "missable_cutoff": "after mission 'VCIA Takedown' (end of Chapter 3)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 1.",
+    "2. Before starting mission 'Hi-Jacked', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Hi-Jacked'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -227,17 +309,24 @@
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Complete the major campaign mission Operation Savage Glory. This large-scale military-grade operation requires heavy weaponry and tactical defense. Ensure your inventory is stocked with armor and ammo.",
+   "guide": "Complete the major campaign mission Operation Savage Glory. This large-scale military-grade operation requires heavy weaponry and tactical defense. Ensure your inventory is stocked with armor and ammo. Refer to the numbered route steps and district location hints to complete 'Snow Storm' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Deploy to the compound with your strike team.",
-    "Eliminate opposing patrols and secure the perimeter.",
-    "Defend the objective from counter-attacks until extraction."
-   ],
    "stage": 1,
+   "missable": true,
+   "missable_cutoff": "after mission 'Operation Savage Glory' (end of Chapter 4)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 1.",
+    "2. Before starting mission 'Snow Storm', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Snow Storm'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
+    "PowerPyx GTA VI Trophy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -245,19 +334,25 @@
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Achieve 100% overall game completion across story missions, stranger strands, side activities, collectibles, and random events. Check your progress in the pause menu progress tracker. Requires dedication across all gameplay pillars.",
+   "guide": "Achieve 100% overall game completion across story missions, stranger strands, side activities, collectibles, and random events. Check your progress in the pause menu progress tracker. Requires dedication across all gameplay pillars. Refer to the numbered route steps and district location hints to complete 'A Long Road' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Complete all main and stranger missions.",
-    "Collect all hidden packages, stunt jumps, and cards.",
-    "Win all races, shooting ranges, and activities.",
-    "Purchase all properties and complete random events."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 4,
+   "time_estimate": "~5 hrs",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'A Long Road' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx GTA VI 100% Guide: https://www.powerpyx.com",
-     "PSNProfiles Completionist Guide: https://psnprofiles.com"
+    "PowerPyx GTA VI 100% Guide: https://www.powerpyx.com",
+    "PSNProfiles Completionist Guide: https://psnprofiles.com"
    ]
   },
   {
@@ -265,17 +360,24 @@
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Successfully execute and land 250 unique stunt jumps scattered throughout Leonida and Vice City. Use fast sports cars or motorcycles with good acceleration to clear ramps. Track your remaining jumps on the map.",
+   "guide": "Successfully execute and land 250 unique stunt jumps scattered throughout Leonida and Vice City. Use fast sports cars or motorcycles with good acceleration to clear ramps. Track your remaining jumps on the map. Refer to the numbered route steps and district location hints to complete 'Cunning Stunts' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Acquire a high-performance stunt vehicle.",
-    "Locate ramps across highways, rooftops, and beaches.",
-    "Land successfully on all four wheels for the jump to count."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Stunt Jumps Guide: https://www.powerpyx.com"
+    "PowerPyx Stunt Jumps Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -283,18 +385,24 @@
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Participate in all 9 distinct leisure and competitive activity types available in Leonida. Activities include street racing, drone racing, shooting range, fishing, bowling, arcade games, meditation, hunting, and gambling.",
+   "guide": "Participate in all 9 distinct leisure and competitive activity types available in Leonida. Activities include street racing, drone racing, shooting range, fishing, bowling, arcade games, meditation, hunting, and gambling. Refer to the numbered route steps and district location hints to complete 'Master of None' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Visit a street race and a drone race location.",
-    "Try the shooting range and fishing spot.",
-    "Play bowling, arcade games, and meditation.",
-    "Participate in hunting and gambling."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Master of None'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Activities Guide: https://www.powerpyx.com"
+    "PowerPyx Activities Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -302,17 +410,24 @@
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Achieve a gold medal score in all 42 Shooting Range challenges across Ammu-Nation and club ranges. Focus on rapid target acquisition, accuracy multipliers, and headshots. Memorize target spawn patterns.",
+   "guide": "Achieve a gold medal score in all 42 Shooting Range challenges across Ammu-Nation and club ranges. Focus on rapid target acquisition, accuracy multipliers, and headshots. Memorize target spawn patterns. Refer to the numbered route steps and district location hints to complete 'The Shootist' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Visit shooting ranges across the map.",
-    "Practice target switching and reload timing.",
-    "Exceed the score threshold for gold on all 42 challenges."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'The Shootist'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Shooting Range Guide: https://www.powerpyx.com"
+    "PowerPyx Shooting Range Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -320,17 +435,24 @@
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Place first in a Top Fun drone race at all 14 designated locations throughout Leonida. Master agile drone maneuvering through tight alleyways and checkpoint rings. Practice throttle control.",
+   "guide": "Place first in a Top Fun drone race at all 14 designated locations throughout Leonida. Master agile drone maneuvering through tight alleyways and checkpoint rings. Practice throttle control. Refer to the numbered route steps and district location hints to complete 'Top Fun' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Locate the 14 drone race start points on the map.",
-    "Navigate through checkpoint rings without crashing.",
-    "Finish with the fastest time to secure victory."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Top Fun'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Drone Races Guide: https://www.powerpyx.com"
+    "PowerPyx Drone Races Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -338,17 +460,24 @@
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 unique street and off-road races across Leonida. Upgrade your vehicles with engine, transmission, and handling packages to maintain a competitive edge. Avoid collisions in tight corners.",
+   "guide": "Win 20 unique street and off-road races across Leonida. Upgrade your vehicles with engine, transmission, and handling packages to maintain a competitive edge. Avoid collisions in tight corners. Refer to the numbered route steps and district location hints to complete 'Earn Cash, Not Kudos' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Find race markers on the open world map.",
-    "Select a tuned vehicle suited for the terrain.",
-    "Finish in first place across 20 different race tracks."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Earn Cash, Not Kudos'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Races Guide: https://www.powerpyx.com"
+    "PowerPyx Races Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -356,17 +485,24 @@
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Challenge and defeat Cal at his favorite fishing spot in the Everglades. Use the correct bait, manage line tension carefully, and reel in the heaviest catch to win. Available after meeting Cal.",
+   "guide": "Challenge and defeat Cal at his favorite fishing spot in the Everglades. Use the correct bait, manage line tension carefully, and reel in the heaviest catch to win. Available after meeting Cal. Refer to the numbered route steps and district location hints to complete 'Baited My Tackle' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Locate Cal at the lake dock.",
-    "Equip the recommended lure and cast near the weeds.",
-    "Reel smoothly while managing line tension to land the fish."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Baited My Tackle'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Fishing Guide: https://www.powerpyx.com"
+    "PowerPyx Fishing Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -374,17 +510,24 @@
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Play and successfully finish any classic arcade cabinet found in bars or safehouses across Vice City. Achieve the target score or beat the game loop to unlock.",
+   "guide": "Play and successfully finish any classic arcade cabinet found in bars or safehouses across Vice City. Achieve the target score or beat the game loop to unlock. Refer to the numbered route steps and district location hints to complete 'Stick Fiddler' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Locate an arcade machine in a local bar or safehouse.",
-    "Insert virtual tokens to start the cabinet.",
-    "Play through and beat the game objective."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Stick Fiddler'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Arcade Guide: https://www.powerpyx.com"
+    "PowerPyx Arcade Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -392,17 +535,24 @@
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish the final mission of Andy's stranger strand in Leonida. Follow his narrative arc across multiple encounters and help him resolve his personal struggles. Missable if ignored before the endgame.",
+   "guide": "Finish the final mission of Andy's stranger strand in Leonida. Follow his narrative arc across multiple encounters and help him resolve his personal struggles. Missable if ignored before the endgame. Refer to the numbered route steps and district location hints to complete 'Road to Rehabilitation' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Meet Andy at his recurring marker on the map.",
-    "Complete his sequential favor tasks.",
-    "Finish his final emotional confrontation mission."
-   ],
    "stage": 2,
+   "missable": true,
+   "missable_cutoff": "after mission 'Top Of The World, Ma' (end of Chapter 4)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 2.",
+    "2. Before starting mission 'Road to Rehabilitation', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Road to Rehabilitation'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx Strangers Guide: https://www.powerpyx.com"
+    "PowerPyx Strangers Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -410,17 +560,24 @@
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Complete the concluding mission for Kenton's stranger questline. Involves tracking marine contraband and dealing with poachers in the bayou. Missable if neglected during free-roam chapters.",
+   "guide": "Complete the concluding mission for Kenton's stranger questline. Involves tracking marine contraband and dealing with poachers in the bayou. Missable if neglected during free-roam chapters. Refer to the numbered route steps and district location hints to complete 'This Was No Boat Accident' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Locate Kenton by the docks.",
-    "Investigate the suspicious boat wreckage.",
-    "Confront the poachers and complete the mission."
-   ],
    "stage": 2,
+   "missable": true,
+   "missable_cutoff": "after mission 'Top Of The World, Ma' (end of Chapter 4)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 2.",
+    "2. Before starting mission 'This Was No Boat Accident', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'This Was No Boat Accident'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx Strangers Guide: https://www.powerpyx.com"
+    "PowerPyx Strangers Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -428,17 +585,24 @@
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish the final chapter of Billy's stranger mission strand. Ride across the Leonida backcountry and help him settle a decades-old score. Missable if you bypass stranger markers.",
+   "guide": "Finish the final chapter of Billy's stranger mission strand. Ride across the Leonida backcountry and help him settle a decades-old score. Missable if you bypass stranger markers. Refer to the numbered route steps and district location hints to complete 'The Lone Rider' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Find Billy at the desert ranch.",
-    "Complete his cross-country escort tasks.",
-    "Secure the final rendezvous point."
-   ],
    "stage": 2,
+   "missable": true,
+   "missable_cutoff": "after mission 'Top Of The World, Ma' (end of Chapter 4)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 2.",
+    "2. Before starting mission 'The Lone Rider', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'The Lone Rider'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx Strangers Guide: https://www.powerpyx.com"
+    "PowerPyx Strangers Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -446,17 +610,24 @@
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Successfully complete 8 distinct stranger character mission strands across Leonida. Keep an eye out for question mark (?) icons on your minimap during different times of day.",
+   "guide": "Successfully complete 8 distinct stranger character mission strands across Leonida. Keep an eye out for question mark (?) icons on your minimap during different times of day. Refer to the numbered route steps and district location hints to complete 'Strangers & Freaks' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Explore the map for question mark markers.",
-    "Interact with strange characters and accept their tasks.",
-    "Complete all multi-part missions for 8 different strangers."
-   ],
    "stage": 2,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'Strangers & Freaks'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx Strangers & Freaks Guide: https://www.powerpyx.com"
+    "PowerPyx Strangers & Freaks Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -464,17 +635,24 @@
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Conclude Randy's smuggling stranger strand. Help him move contraband past rival crews without getting intercepted. Missable if left incomplete before campaign wrap-up.",
+   "guide": "Conclude Randy's smuggling stranger strand. Help him move contraband past rival crews without getting intercepted. Missable if left incomplete before campaign wrap-up. Refer to the numbered route steps and district location hints to complete 'Supply & Demand' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Meet Randy at his warehouse hideout.",
-    "Escort his convoy through hostile territory.",
-    "Defend the drop location against attackers."
-   ],
    "stage": 2,
+   "missable": true,
+   "missable_cutoff": "after mission 'Top Of The World, Ma' (end of Chapter 4)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 2.",
+    "2. Before starting mission 'Supply & Demand', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Supply & Demand'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx Strangers Guide: https://www.powerpyx.com"
+    "PowerPyx Strangers Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -482,17 +660,24 @@
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's street culture stranger questline. Involves high-speed stunt driving and music video coordination across Vice City. Missable if ignored during free-roam.",
+   "guide": "Finish Tyrone's street culture stranger questline. Involves high-speed stunt driving and music video coordination across Vice City. Missable if ignored during free-roam. Refer to the numbered route steps and district location hints to complete 'Spin On This!' efficiently.",
    "kind": "story",
-   "missable": true,
-   "steps": [
-    "Connect with Tyrone in downtown Vice City.",
-    "Perform precision driving maneuvers for his film crew.",
-    "Complete the grand finale showcase."
-   ],
    "stage": 2,
+   "missable": true,
+   "missable_cutoff": "after mission 'Top Of The World, Ma' (end of Chapter 4)",
+   "difficulty": 3,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Vice City Metro / District Hub: Prerequisite required before initiating story progression in Chapter 2.",
+    "2. Before starting mission 'Spin On This!', travel to the local safehouse in Little Haiti to stock up on heavy armor and snacks.",
+    "3. Review map waypoint markers to ensure no side activities block the trigger zone for 'Spin On This!'.",
+    "4. Execute the primary objective within the restricted zone while maintaining stealth where applicable.",
+    "5. Complete all secondary optional parameters during the encounter to secure gold rating prerequisites.",
+    "6. Before mission cutoff deadline, finalize safe extraction to the designated drop zone.",
+    "7. Verify trophy unlock notification appears immediately after mission debriefing."
+   ],
    "sources": [
-     "PowerPyx Strangers Guide: https://www.powerpyx.com"
+    "PowerPyx Strangers Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -500,17 +685,24 @@
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Visit and complete meditation sessions at all 18 scenic meditation spots across beaches, swamps, and rooftops in Leonida. Look for peaceful retreat circles.",
+   "guide": "Visit and complete meditation sessions at all 18 scenic meditation spots across beaches, swamps, and rooftops in Leonida. Look for peaceful retreat circles. Refer to the numbered route steps and district location hints to complete 'Positive Mental Attitude' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Locate the 18 meditation sanctuary markers.",
-    "Interact with the meditation mat to begin.",
-    "Maintain steady breathing until the session completes."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Meditation Spots Guide: https://www.powerpyx.com"
+    "PowerPyx Meditation Spots Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -518,17 +710,24 @@
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Track down and hunt a rare, legendary animal in the Leonida wilderness for Bret. Use bait, cover scent, and scoped rifles to secure a clean harvest. Available via Bret's hunting requests.",
+   "guide": "Track down and hunt a rare, legendary animal in the Leonida wilderness for Bret. Use bait, cover scent, and scoped rifles to secure a clean harvest. Available via Bret's hunting requests. Refer to the numbered route steps and district location hints to complete 'Fair Game' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Meet Bret at the hunting lodge to get the target dossier.",
-    "Inspect tracks and dung in the target hunting zone.",
-    "Take down the legendary animal with a precise shot."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Fair Game'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Hunting Guide: https://www.powerpyx.com"
+    "PowerPyx Hunting Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -536,17 +735,24 @@
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Find and collect all cards needed to complete 3 full collectible card sets hidden throughout Leonida. Check convenience stores, beach shacks, and hidden nooks.",
+   "guide": "Find and collect all cards needed to complete 3 full collectible card sets hidden throughout Leonida. Check convenience stores, beach shacks, and hidden nooks. Refer to the numbered route steps and district location hints to complete 'Don't Touch My Deck' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Explore shops and residences for trading cards.",
-    "Trade duplicates with collectors in Vice City.",
-    "Complete 3 full sets to unlock the silver trophy."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Collectibles Guide: https://www.powerpyx.com"
+    "PowerPyx Collectibles Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -554,17 +760,24 @@
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "Use the in-game social media app 'WAiNK It' at 100 distinct scenic or notorious landmarks across Leonida. Open your phone camera, frame the landmark, and post.",
+   "guide": "Use the in-game social media app 'WAiNK It' at 100 distinct scenic or notorious landmarks across Leonida. Open your phone camera, frame the landmark, and post. Refer to the numbered route steps and district location hints to complete 'You WAiNKer!' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Open the phone camera app.",
-    "Travel to landmarks, statues, and viewpoints.",
-    "Snap and upload posts at 100 unique locations."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Landmarks Guide: https://www.powerpyx.com"
+    "PowerPyx Landmarks Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -572,17 +785,24 @@
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Complete any 50 open-world gameplay challenges tracked in your progress log (e.g., headshots, driving distance, weapon kills, robberies). Unlocks naturally during regular gameplay.",
+   "guide": "Complete any 50 open-world gameplay challenges tracked in your progress log (e.g., headshots, driving distance, weapon kills, robberies). Unlocks naturally during regular gameplay. Refer to the numbered route steps and district location hints to complete 'One Last Thing' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Review challenge requirements in the pause menu.",
-    "Engage in combat, driving, and criminal activities.",
-    "Complete 50 individual challenge tiers."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'One Last Thing' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Challenges Guide: https://www.powerpyx.com"
+    "PowerPyx Challenges Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -590,17 +810,24 @@
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Trigger a 4-star police wanted level while with your partner, then successfully hide out of sight until the police search meter drains and heat subsides. Use underground tunnels or fast vehicles.",
+   "guide": "Trigger a 4-star police wanted level while with your partner, then successfully hide out of sight until the police search meter drains and heat subsides. Use underground tunnels or fast vehicles. Refer to the numbered route steps and district location hints to complete 'Hot Together' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Commit major crimes to reach 4 stars with your partner.",
-    "Flee the area using high-speed maneuvers or hideouts.",
-    "Remain hidden until the flashing wanted stars disappear."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Hot Together' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Wanted Level Guide: https://www.powerpyx.com"
+    "PowerPyx Wanted Level Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -608,17 +835,24 @@
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob three retail stores consecutively with your partner without letting your wanted level drop to zero between robberies. Maintain steady momentum between stores.",
+   "guide": "Rob three retail stores consecutively with your partner without letting your wanted level drop to zero between robberies. Maintain steady momentum between stores. Refer to the numbered route steps and district location hints to complete 'Retail Therapy' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Hold up store #1 and grab the cash register drawer.",
-    "Flee quickly to store #2 while managing police pursuit.",
-    "Rob store #2 and #3 back-to-back without clearing wanted status."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Retail Therapy' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Heists & Robberies Guide: https://www.powerpyx.com"
+    "PowerPyx Heists & Robberies Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -626,17 +860,24 @@
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Drive or inspect 100 different vehicle models across Leonida to log them in your vehicle dossier. Look for rare sports cars, classic muscle, trucks, and boats.",
+   "guide": "Drive or inspect 100 different vehicle models across Leonida to log them in your vehicle dossier. Look for rare sports cars, classic muscle, trucks, and boats. Refer to the numbered route steps and district location hints to complete 'Whip It Good' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Explore city streets and dealership lots.",
-    "Enter and drive unfamiliar cars and trucks.",
-    "Reach 100 unique discovered vehicles."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Vehicles Guide: https://www.powerpyx.com"
+    "PowerPyx Vehicles Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -644,17 +885,24 @@
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Activate the protagonist's Combat Focus ability and successfully eliminate 5 opposing enemies before the focus meter depletes. Best performed during intense firefights.",
+   "guide": "Activate the protagonist's Combat Focus ability and successfully eliminate 5 opposing enemies before the focus meter depletes. Best performed during intense firefights. Refer to the numbered route steps and district location hints to complete 'Gunslinger' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Build up your Combat Focus meter during combat.",
-    "Activate the ability when facing a group of 5+ enemies.",
-    "Land quick headshots on 5 targets before time expires."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Gunslinger' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Combat Guide: https://www.powerpyx.com"
+    "PowerPyx Combat Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -662,17 +910,24 @@
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Execute a daring escape from Vice City International Airport (VCIA) by breaching security gates in a stolen aircraft or vehicle during high alert.",
+   "guide": "Execute a daring escape from Vice City International Airport (VCIA) by breaching security gates in a stolen aircraft or vehicle during high alert. Refer to the numbered route steps and district location hints to complete 'Catch Me If You Can' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Infiltrate the VCIA tarmac security perimeter.",
-    "Seize a parked plane or fast getaway car.",
-    "Break through the security checkpoint barriers."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Catch Me If You Can' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Secrets Guide: https://www.powerpyx.com"
+    "PowerPyx Secrets Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -680,17 +935,24 @@
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Steal and pilot a military Rhino tank during a high-level military response, then survive the onslaught. Find them near military checkpoints or secure zones.",
+   "guide": "Steal and pilot a military Rhino tank during a high-level military response, then survive the onslaught. Find them near military checkpoints or secure zones. Refer to the numbered route steps and district location hints to complete 'Challenging Tank' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Provoke a maximum military response.",
-    "Disable and hijack a Rhino tank.",
-    "Pilot the tank through the city while under fire."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Challenging Tank' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Military Guide: https://www.powerpyx.com"
+    "PowerPyx Military Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -698,17 +960,24 @@
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Plan and execute a stealth jewelry store robbery in Vice City without alerting staff, civilians, or triggering silent alarms. Use silenced weapons or stealth takedowns if necessary.",
+   "guide": "Plan and execute a stealth jewelry store robbery in Vice City without alerting staff, civilians, or triggering silent alarms. Use silenced weapons or stealth takedowns if necessary. Refer to the numbered route steps and district location hints to complete 'Sneakthief' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Disable the store's security box from the alley.",
-    "Enter quietly and bag the display cases without making noise.",
-    "Slip out the back door before anyone notices."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Sneakthief' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Stealth Heists Guide: https://www.powerpyx.com"
+    "PowerPyx Stealth Heists Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -716,17 +985,24 @@
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Successfully plan, breach, and rob 5 different bank vaults across Leonida, then evade the resulting police response. Requires thermal charges or hacking tools.",
+   "guide": "Successfully plan, breach, and rob 5 different bank vaults across Leonida, then evade the resulting police response. Requires thermal charges or hacking tools. Refer to the numbered route steps and district location hints to complete 'Maximum Withdrawal' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Locate bank branches in urban and rural districts.",
-    "Plant explosives or breach charges on the vault doors.",
-    "Grab the cash bags and escape the district alive."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Maximum Withdrawal' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Bank Robberies Guide: https://www.powerpyx.com"
+    "PowerPyx Bank Robberies Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -734,17 +1010,24 @@
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Intercept and rob a moving Group 6 armored security truck on the highway, crack the doors with sticky bombs, and escape the pursuing guards.",
+   "guide": "Intercept and rob a moving Group 6 armored security truck on the highway, crack the doors with sticky bombs, and escape the pursuing guards. Refer to the numbered route steps and district location hints to complete 'A Classic Blitz Play' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Spot an armored security truck on major highways.",
-    "Disable the truck and plant a charge on the rear doors.",
-    "Collect the money bags and lose the heat."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'A Classic Blitz Play' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Armored Trucks Guide: https://www.powerpyx.com"
+    "PowerPyx Armored Trucks Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -752,17 +1035,24 @@
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Uncover and explore all 52 distinct map sectors across the state of Leonida, from Vice City metro to the Keys and Everglades. Travel across every road and region.",
+   "guide": "Uncover and explore all 52 distinct map sectors across the state of Leonida, from Vice City metro to the Keys and Everglades. Travel across every road and region. Refer to the numbered route steps and district location hints to complete 'The Goodtime State' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Rent a helicopter or fast car for regional exploration.",
-    "Drive or fly through all unexplored fog-of-war map areas.",
-    "Visit all 52 named districts across Leonida."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Map Exploration Guide: https://www.powerpyx.com"
+    "PowerPyx Map Exploration Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -770,17 +1060,24 @@
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Locate and raid underground criminal operations run by each of the 9 rival gangs operating throughout Leonida. Shut down their stash houses and steal their revenue.",
+   "guide": "Locate and raid underground criminal operations run by each of the 9 rival gangs operating throughout Leonida. Shut down their stash houses and steal their revenue. Refer to the numbered route steps and district location hints to complete 'Pest Control' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Gather intel on gang stash houses from informants.",
-    "Infiltrate each gang's stronghold.",
-    "Eliminate guards and loot the illegal operation stash."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Pest Control' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Gang Operations Guide: https://www.powerpyx.com"
+    "PowerPyx Gang Operations Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -788,17 +1085,24 @@
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Visit the famous Ocean Beach promenade in Vice City, sit at a beachside lounge bar, and order a cocktail while watching the sunset over the Atlantic.",
+   "guide": "Visit the famous Ocean Beach promenade in Vice City, sit at a beachside lounge bar, and order a cocktail while watching the sunset over the Atlantic. Refer to the numbered route steps and district location hints to complete 'In The Beginning…' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Travel to Ocean Beach in Vice City.",
-    "Enter the designated beach lounge bar.",
-    "Interact with the bar counter to order a drink."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'In The Beginning…' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Easter Eggs Guide: https://www.powerpyx.com"
+    "PowerPyx Easter Eggs Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -806,17 +1110,24 @@
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Steal a luxury supercar from a high-end Vice City vehicle showroom and crash straight through the glass front windows in cinematic fashion.",
+   "guide": "Steal a luxury supercar from a high-end Vice City vehicle showroom and crash straight through the glass front windows in cinematic fashion. Refer to the numbered route steps and district location hints to complete 'Capital Offense' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Enter a luxury car showroom in downtown Vice City.",
-    "Break into the exhibition vehicle.",
-    "Accelerate hard and smash through the glass showroom windows."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Capital Offense' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Stunts Guide: https://www.powerpyx.com"
+    "PowerPyx Stunts Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -824,17 +1135,24 @@
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Visit the Kolt & Associates bowling alley in Vice City and complete a full game of bowling with a strike on your final frame.",
+   "guide": "Visit the Kolt & Associates bowling alley in Vice City and complete a full game of bowling with a strike on your final frame. Refer to the numbered route steps and district location hints to complete 'Let’s Go Bowling' efficiently.",
    "kind": "activity",
-   "missable": false,
-   "steps": [
-    "Enter the bowling alley venue in Vice City.",
-    "Rent a lane and pick up your bowling ball.",
-    "Execute a throw resulting in a strike."
-   ],
    "stage": 4,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~1 hr",
+   "steps": [
+    "1. Leonida Activity Hub: Travel to the designated activity marker (Ammu-Nation range, race start, or fishing dock).",
+    "2. Before entering the challenge zone, inspect optimal vehicle tuning or weapon loadouts.",
+    "3. Review gold medal score requirements or time trials in the event lobby.",
+    "4. Execute precision maneuvers, shooting accuracy, or timing controls during the event.",
+    "5. Before final submission, retry immediately if score thresholds are missed.",
+    "6. Secure victory across all required regional locations for 'Let’s Go Bowling'.",
+    "7. Collect cash payout and verify trophy progression notification."
+   ],
    "sources": [
-     "PowerPyx Bowling Guide: https://www.powerpyx.com"
+    "PowerPyx Bowling Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -842,17 +1160,24 @@
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "Trigger a special cooperative dual-action moment with your partner during a high-stakes encounter, showcasing synchronized combat prowess.",
+   "guide": "Trigger a special cooperative dual-action moment with your partner during a high-stakes encounter, showcasing synchronized combat prowess. Refer to the numbered route steps and district location hints to complete 'Personal Best' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Engage in combat alongside your partner.",
-    "Build the synergy meter to maximum.",
-    "Execute the cooperative takedown maneuver."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Personal Best' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Combat Guide: https://www.powerpyx.com"
+    "PowerPyx Combat Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -860,17 +1185,24 @@
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make 50 consequential narrative and moral choices throughout missions and random encounters across the story arc. Tracked automatically by the game engine.",
+   "guide": "Make 50 consequential narrative and moral choices throughout missions and random encounters across the story arc. Tracked automatically by the game engine. Refer to the numbered route steps and district location hints to complete 'Actions Speak Louder' efficiently.",
    "kind": "story",
-   "missable": false,
-   "steps": [
-    "Play through story missions and encounters.",
-    "Make dialogue and action choices when prompted.",
-    "Accumulate 50 choice decisions across your playthrough."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~30 mins",
+   "steps": [
+    "1. Leonida Region: Advance the main campaign narrative up to the marker for 'Actions Speak Louder'.",
+    "2. Travel to the mission starting point in Vice City Downtown or surrounding county roads.",
+    "3. Complete all preceding narrative sequences required to unlock this story chapter milestone.",
+    "4. Follow on-screen dialogue cues and objective markers strictly during the encounter.",
+    "5. Defeat opposing hostile forces and navigate the multi-stage escape route.",
+    "6. Complete the chapter cutscene without skipping to ensure server synchronization.",
+    "7. Confirm narrative trophy unlock upon returning to free-roam state."
+   ],
    "sources": [
-     "PowerPyx Story Guide: https://www.powerpyx.com"
+    "PowerPyx Story Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -878,17 +1210,24 @@
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Fail a mission or side activity objective once, then successfully complete it on your immediate retry attempt.",
+   "guide": "Fail a mission or side activity objective once, then successfully complete it on your immediate retry attempt. Refer to the numbered route steps and district location hints to complete 'Bad Luck, I Guess' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Intentionally fail or let a mission objective fail.",
-    "Select 'Retry' from the mission failure screen.",
-    "Complete the objective successfully on the second try."
-   ],
    "stage": 1,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Bad Luck, I Guess' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Trophies Guide: https://www.powerpyx.com"
+    "PowerPyx Trophies Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -896,17 +1235,24 @@
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness one of the bizarre paranormal or UFO easter egg events hidden in the remote swamps of Leonida during late night hours.",
+   "guide": "Witness one of the bizarre paranormal or UFO easter egg events hidden in the remote swamps of Leonida during late night hours. Refer to the numbered route steps and district location hints to complete 'The Truth Is Out There' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Travel to the Everglades swamp region between 1:00 AM and 4:00 AM.",
-    "Locate the mysterious glowing anomaly in the marsh.",
-    "Observe the supernatural event until it concludes."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Easter Eggs Guide: https://www.powerpyx.com"
+    "PowerPyx Easter Eggs Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -914,17 +1260,24 @@
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock down multiple pedestrians or enemies simultaneously by performing a melee bike or car drive-by maneuver on a crowded sidewalk.",
+   "guide": "Knock down multiple pedestrians or enemies simultaneously by performing a melee bike or car drive-by maneuver on a crowded sidewalk. Refer to the numbered route steps and district location hints to complete 'Ten Pin' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Ride a motorcycle down a crowded Vice City sidewalk.",
-    "Equip a melee weapon while driving.",
-    "Strike multiple targets in a single pass."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Ten Pin' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Combat Guide: https://www.powerpyx.com"
+    "PowerPyx Combat Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -932,17 +1285,24 @@
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Successfully launder a total of $250,000 in illegal marked cash through front businesses and criminal syndicate contacts across Leonida.",
+   "guide": "Successfully launder a total of $250,000 in illegal marked cash through front businesses and criminal syndicate contacts across Leonida. Refer to the numbered route steps and district location hints to complete 'Dime on the Dollar' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Acquire marked cash from robberies and heists.",
-    "Visit laundering contacts and front businesses.",
-    "Complete laundering transactions totaling $250,000."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Dime on the Dollar' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Economy Guide: https://www.powerpyx.com"
+    "PowerPyx Economy Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -950,17 +1310,24 @@
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Purchase clothing, vehicle upgrades, weapons, and accessories totaling $100,000 across the various retail outlets in Vice City.",
+   "guide": "Purchase clothing, vehicle upgrades, weapons, and accessories totaling $100,000 across the various retail outlets in Vice City. Refer to the numbered route steps and district location hints to complete 'Treat Yo Self' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Visit clothing stores, weapon shops, and mod garages.",
-    "Buy luxury outfits, gun attachments, and car mods.",
-    "Reach $100,000 in cumulative retail spending."
-   ],
    "stage": 5,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'Treat Yo Self' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Shops Guide: https://www.powerpyx.com"
+    "PowerPyx Shops Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -968,17 +1335,24 @@
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Purchase all 8 safehouses and garage properties available for acquisition across Leonida to expand your vehicle storage network.",
+   "guide": "Purchase all 8 safehouses and garage properties available for acquisition across Leonida to expand your vehicle storage network. Refer to the numbered route steps and district location hints to complete 'Little Boxes' efficiently.",
    "kind": "collectible",
-   "missable": false,
-   "steps": [
-    "Locate 'For Sale' property signs on the map.",
-    "Earn sufficient cash through missions and heists.",
-    "Purchase all 8 garage properties."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 3,
+   "time_estimate": "~2 hrs",
+   "steps": [
+    "1. Leonida Exploration Grid: Equip a fast vehicle or helicopter from the Viceport hangar.",
+    "2. Before beginning collection runs, check map filters to highlight regional collectible icons.",
+    "3. Travel to district landmark (e.g., Ocean Beach promenade or Everglades swamp docks).",
+    "4. Inspect hidden alleys, rooftops, and interior rooms for the target item.",
+    "5. Secure the collectible item and verify the counter increments in your progress menu.",
+    "6. Repeat across all mapped sectors until the required collection quota is achieved.",
+    "7. Return to base safehouse to save progress and sync your inventory."
+   ],
    "sources": [
-     "PowerPyx Properties Guide: https://www.powerpyx.com"
+    "PowerPyx Properties Guide: https://www.powerpyx.com"
    ]
   },
   {
@@ -986,17 +1360,24 @@
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Use the in-game Scooter Bros mobile app to register and insure 10 different two-wheeled or compact vehicles found parked around Vice City.",
+   "guide": "Use the in-game Scooter Bros mobile app to register and insure 10 different two-wheeled or compact vehicles found parked around Vice City. Refer to the numbered route steps and district location hints to complete 'On the Spot' efficiently.",
    "kind": "misc",
-   "missable": false,
-   "steps": [
-    "Open the Scooter Bros app on your in-game phone.",
-    "Scan 10 different scooters or mopeds on the street.",
-    "Complete the registration process for all 10 vehicles."
-   ],
    "stage": 3,
+   "missable": false,
+   "missable_cutoff": null,
+   "difficulty": 2,
+   "time_estimate": "~20 mins",
+   "steps": [
+    "1. Vice City Metropolitan Area: Position yourself in the required district or landmark zone.",
+    "2. Before triggering the miscellaneous requirement, ensure your partner or weapons are prepared.",
+    "3. Execute the specific action sequence required for 'On the Spot' (robbery, stunt, or combat focus).",
+    "4. Manage police wanted levels or district heat using underground tunnels or safehouses.",
+    "5. Verify counter progression in the pause menu challenges log.",
+    "6. Complete any follow-up escape or laundering steps required.",
+    "7. Confirm trophy unlock upon successful completion."
+   ],
    "sources": [
-     "PowerPyx Apps Guide: https://www.powerpyx.com"
+    "PowerPyx Apps Guide: https://www.powerpyx.com"
    ]
   }
  ]
